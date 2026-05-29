@@ -7,11 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-
-<h3>Spring MVC GitHub...</h3>
-
-<h3>${msg }</h3>
-
+<h3>Hello</h3>
 </body>
 </html>
